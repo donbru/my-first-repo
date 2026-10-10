@@ -8,3 +8,5 @@ This is a local update to hello.txt
 
 This is a remote change to hello.txt to test pull merging. 
 
+Added for stashing changes. 
+
